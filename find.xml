@@ -12,15 +12,15 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
       <mask>*.s</mask>
+      <mask>*.ft</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.f</mask>
-      <mask>*.ft</mask>
       <mask>*.ftl</mask>
     </recentFileMasks>
   </component>
