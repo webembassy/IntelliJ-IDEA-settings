@@ -13,12 +13,15 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.s</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.f</mask>
+      <mask>*.s</mask>
+      <mask>*ft</mask>
+      <mask>*f</mask>
+      <mask>*</mask>
       <mask>*.ftl</mask>
       <mask>*.ft</mask>
+      <mask>*.f</mask>
       <mask>*.</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
