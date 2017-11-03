@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.ftl" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -18,9 +18,6 @@
       <mask>*ft</mask>
       <mask>*f</mask>
       <mask>*</mask>
-      <mask>*.ftl</mask>
-      <mask>*.ft</mask>
-      <mask>*.f</mask>
       <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.ht</mask>
@@ -29,6 +26,9 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.f</mask>
+      <mask>*.ft</mask>
+      <mask>*.ftl</mask>
     </recentFileMasks>
   </component>
 </application>
