@@ -24,10 +24,10 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.f</mask>
       <mask>*.ft</mask>
-      <mask>*.ftl</mask>
       <mask>*.js</mask>
+      <mask>*.f</mask>
+      <mask>*.ftl</mask>
     </recentFileMasks>
   </component>
 </application>
