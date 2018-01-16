@@ -7,7 +7,6 @@
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -28,6 +27,9 @@
       <mask>*.js</mask>
       <mask>*.f</mask>
       <mask>*.ftl</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
